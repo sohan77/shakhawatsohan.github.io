@@ -1,58 +1,119 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About Me"
+excerpt: "Hossain Md Shakhawat - 苏汉 | Tsinghua University | Soft Robotics"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+# 👨‍🎓 Hossain Md Shakhawat (苏汉)
 
-<span class='anchor' id='about-me'></span>
+I am an aspiring and dedicated engineer currently pursuing a Master's degree in **Soft Robotics** at **Tsinghua University**, Beijing, China.  
+With strong international experience and a solid academic background in **Mechanical Design, Manufacturing and Automation** from **Changsha University of Science & Technology (GPA 3.8+)**, I am passionate about robotics, engineering design, and innovative research.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am sincere, responsible, trustworthy, and highly committed to delivering excellence in everything I do.  
+My goal is to contribute my academic knowledge and global exposure to create impactful engineering solutions.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+---
 
+# 🎓 Education Background
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Master of Science in Engineering (Soft Robotics)**  
+  *Tsinghua University, Beijing, China* (Currently Studying)
 
-# 📝 Publications 
+- **Bachelor of Science in Engineering (Mechanical Design, Manufacturing and Automation)**  
+  *Changsha University of Science & Technology, Hunan, China*  
+  GPA: 3.8+ / 4.00 | Graduated June 2023
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Higher Secondary Certificate (Science)**  
+  *Laxmipur Govt College, Bangladesh*  
+  GPA: 5.00 / 5.00 | 2017
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Secondary School Certificate (Science)**  
+  *Muslimabad High School, Bangladesh*  
+  GPA: 4.86 / 5.00 | 2014
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+---
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+# 💼 Work & Leadership Experience
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Intern Engineer**  
+  Dongfeng Commercial Vehicle Company Limited (Engine Plant), Hubei, China  
+  *(June 2022 - July 2022)*
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **International Students Volunteer**  
+  Peer Assistance Team, Changsha University of Science & Technology  
+  *(June 2021 - Present)*
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Executive Member (Body Part Section)**  
+  Car Racing Team CRT, Changsha University of Science & Technology  
+  *(September 2021 - Present)*
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **International Freshman Enrollment Volunteer**  
+  Bangladesh Student Union in China (BSUC)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+---
+
+# 📚 Research & Projects
+
+- **Co-Author of Academic Research Article**  
+  *Impact of power modulation on weld appearance and mechanical properties during laser welding of AZ31B magnesium alloy*  
+  Published in Optics & Laser Technology (Elsevier), DOI: [10.1016/j.optlastec.2022.108490  [Add to Citavi project by DOI] ](https://doi.org/10.1016/j.optlastec.2022.108490  [Add to Citavi project by DOI] )
+
+- **Competitions and Projects**  
+  - 13th Process Equipment Innovation Design Competition
+  - World Vocational Skills Competition (Industrial Robot Technology Application)
+  - **Final Year Thesis**: "Real-time Recognition of Human Face and Shoot at Target Position System Based on STM32"
+
+---
+
+# 🏆 Awards and Honors
+
+- Outstanding Volunteer Award, CSUST International College (2020-2021)
+- Hunan Provincial Government Scholarship (2020-2022)
+- 3rd place, Chinese Story Writing Competition ("I & China Story", 70th Anniversary)
+- Recitation Champion, International College Chinese Poem Competition (2021)
+- 3rd place, Shot Put, CSUST Annual Sports Meeting
+- 5th position, Physics Olympiad Bangladesh (2015-2016)
+
+---
+
+# 🛠 Skills & Certifications
+
+**Engineering Software:**  
+SolidWorks, AutoCAD, ANSYS, Simplify3D, Arduino, PTC Creo
+
+**Programming:**  
+C, Python, PLC (Ladder)
+
+**Image and Video Editing:**  
+Adobe Photoshop, After Effects, Filmora9
+
+**Other Tools:**  
+Microsoft Office, Origin Data Analysis
+
+**Certifications:**  
+- Solidworks and 3D Printing (CADD CORE)
+- Scientific Paper Writing (Coursera, Ecole Polytechnique)
+- HSK 4 (Peking University, Coursera)
+- Python Programming (University of Michigan, Coursera)
+- PowerPoint Masterclass (Bohubrihi)
+
+---
+
+# 🌎 Languages
+
+- English (Fluent)
+- Chinese (Working proficiency, HSK 5 passed)
+- Bangla (Native)
+- Urdu (Working proficiency)
+
+---
+
+# 📞 Contact Me
+
+Email: sohancsust@gmail.com  
+WeChat: shakhawatsohan  
+Phone (China): +86-15600038799
